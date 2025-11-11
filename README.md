@@ -2,7 +2,7 @@
   <img src="https://i.ytimg.com/vi/3Euny2PZQ1Q/maxresdefault.jpg" style="width:100%; border-radius:10px;"/>
 </p>
 
-<h1 align="center">Hi! I'm Oaoa12 👋</h1>
+<h1 align="center">Hi! I'm Raxat 👋</h1>
 <h3 align="center">Frontend Developer | React · Redux Toolkit · Node.js · PostgreSQL</h3>
 
 ---
@@ -47,14 +47,14 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://t.me/Oaoa12" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="" target="_blank">
+    <img src=""/>
   </a>
-  <a href="https://www.linkedin.com/in/Oaoa12/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="" target="_blank">
+    <img src=""/>
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="" target="_blank">
+    <img src=""/>
   </a>
 </p>
 
