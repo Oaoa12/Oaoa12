@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[file:///C:/Users/astra/Downloads/photo_2025-11-12_00-01-19.jpg](https://play-lh.googleusercontent.com/qPm7GmZkDoxZnTW0qiTJmdn26IuDgHNZ4N1539c6QesYrcbTf8B_rH8RtrBK9d39FPuDx-J7AF5AUs_GRV6Uig=w526-h296-rw)" style="width:100%; border-radius:10px;"/>
+  <img src="https://i.ytimg.com/vi/3Euny2PZQ1Q/maxresdefault.jpg" style="width:100%; border-radius:10px;" alt="The Good, the Bad and the Ugly"/>
 </p>
 
 <h1 align="center">Hi! I'm RaxatMaster 👋</h1>
@@ -47,13 +47,13 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://t.me/RaxatMaster" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/RaxatMaster/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="mailto:youremail@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
