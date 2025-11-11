@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="600"/>
 </p>
 
-<h1 align="center">Привет! Я Иван 👋</h1>
-<h3 align="center">Fullstack разработчик | React · Redux Toolkit · Node.js · PostgreSQL</h3>
+<h1 align="center">Hi! I`m RaxatMaster 👋</h1>
+<h3 align="center">Frontend Developer | React · Redux Toolkit · Node.js · PostgreSQL</h3>
 
 ---
 
