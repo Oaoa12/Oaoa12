@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8aYxY5R6f7u/giphy.gif" width="600"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3Euny2PZQ1Q&psig=AOvVaw11cTjpttYYR8HO10fghY26&ust=1762980559063000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCs88j86pADFQAAAAAdAAAAABAE" width="600"/>
 </p>
 
 <h1 align="center">Hi! I'm Oaoa12 👋</h1>
