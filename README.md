@@ -2,7 +2,7 @@
   <img src="https://i.ytimg.com/vi/3Euny2PZQ1Q/maxresdefault.jpg" style="width:100%; border-radius:10px;"/>
 </p>
 
-<h1 align="center">Hi! I'm Raxat 👋</h1>
+<h1 align="center">Hi! I'm RaxatMaster 👋</h1>
 <h3 align="center">Frontend Developer | React · Redux Toolkit · Node.js · PostgreSQL</h3>
 
 ---
@@ -48,13 +48,13 @@
 
 <p align="center">
   <a href="" target="_blank">
-    <img src=""/>
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="" target="_blank">
-    <img src=""/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="" target="_blank">
-    <img src=""/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
