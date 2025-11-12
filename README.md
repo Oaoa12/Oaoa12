@@ -14,6 +14,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oaoa12&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oaoa12&theme=tokyonight&hide_border=false" height="150"/>
+</p>
+
 ---
 
 ## 🛠 Skills & Technologies
@@ -28,13 +32,13 @@
 
 <p align="center">
   <a href="https://github.com/Oaoa12/MultiBank" target="_blank">
-    <img src="./assets/pr1.PNG" width="180" alt="Online Store"/>
+    <img src="./assets/pr1.PNG" width="400" alt="MultiBank"/>
   </a>
   <a href="https://github.com/Oaoa12/todo-app" target="_blank">
-    <img src="https://media.giphy.com/media/3o7aD6U9s1K1l6AX9y/giphy.gif" width="180" alt="Todo App"/>
+    <img src="https://media.giphy.com/media/3o7aD6U9s1K1l6AX9y/giphy.gif" width="400" alt="Todo App"/>
   </a>
   <a href="https://github.com/Oaoa12/portfolio" target="_blank">
-    <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="180" alt="Portfolio"/>
+    <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400" alt="Portfolio"/>
   </a>
 </p>
 
