@@ -47,17 +47,18 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://t.me/RaxatMaster" target="_blank">
+  <a href="https://t.me/shij_c" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/RaxatMaster/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:ilshih@mail.ru" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://hh.ru" target="_blank">
+    <img src="https://img.shields.io/badge/HeadHunter-990000?style=for-the-badge&logo=hh&logoColor=white" alt="HeadHunter"/>
+  </a>
 </p>
-
----
 
 <p align="center">✨ Welcome to my GitHub profile! ✨</p>
