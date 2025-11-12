@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://github.com/Oaoa12/online-store" target="_blank">
-    <img src="https://media.giphy.com/media/1dIoRHCvFM6xhXldcO/giphy.gif" width="180" alt="Online Store"/>
+    <img src="./assets/pr1.png" width="180" alt="Online Store"/>
   </a>
   <a href="https://github.com/Oaoa12/todo-app" target="_blank">
     <img src="https://media.giphy.com/media/3o7aD6U9s1K1l6AX9y/giphy.gif" width="180" alt="Todo App"/>
