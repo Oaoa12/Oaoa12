@@ -28,19 +28,25 @@
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Projects & Achievements
 
 <p align="center">
-  <a href="https://github.com/Oaoa12/MultiBank" target="_blank">
-    <img src="./assets/pr1.PNG" width="400" alt="MultiBank"/>
-  </a>
-  <a href="https://github.com/Oaoa12/todo-app" target="_blank">
-    <img src="https://media.giphy.com/media/3o7aD6U9s1K1l6AX9y/giphy.gif" width="400" alt="Todo App"/>
-  </a>
-  <a href="https://github.com/Oaoa12/portfolio" target="_blank">
-    <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400" alt="Portfolio"/>
-  </a>
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/State Management-Redux%20Toolkit-purple?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Deployed-Vercel-red?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
+
+<p align="center">
+  <strong>Fun Facts:</strong>
+</p>
+<ul>
+  <li>💻 Built <strong>3 full-stack apps</strong> with React + Node.js + PostgreSQL</li>
+  <li>⚡ Optimized state management using <strong>Redux Toolkit</strong></li>
+  <li>🎨 Created interactive and responsive UI with modern CSS and React</li>
+  <li>🚀 Deployed projects online with <strong>Vercel</strong> and shared on GitHub</li>
+</ul>
 
 ---
 
