@@ -31,7 +31,7 @@
     <img src="./assets/pr1.PNG" style="width:90%; max-width:600px; border-radius:12px;" alt="MultiBank"/>
   </a>
   <br>
-  <strong>MultiBank</strong> — React · Redux Toolkit
+  <strong>MultiBank</strong> — Next.js · TypeScript · Redux Toolkit · NestJS
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
     <img src="https://media.giphy.com/media/3o7aD6U9s1K1l6AX9y/giphy.gif" style="width:90%; max-width:600px; border-radius:12px;" alt="Todo App"/>
   </a>
   <br>
-  <strong>Todo App</strong> — React · Node.js
+  <strong> App</strong> — React · Node.js
 </p>
 
 <p align="center">
